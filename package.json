@@ -1,0 +1,17 @@
+{
+    "name": "playwright-asana-tests",
+    "version": "1.0.0",
+    "description": "A Playwright test suite for Asana",
+    "main": "index.js",
+    "scripts": {
+        "test": "playwright test"
+    },
+    "dependencies": {
+        "playwright": "^1.39.0"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.49.0"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+}
